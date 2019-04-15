@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Crossed Wires"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Chris Birmingham"
-description              : &description "Chris Birmingham's Personal/Professional Website"
-url                      : https://chrismbirmingham.github.io/academics # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lauren Klein"
+description              : &description "Lauren Klein's Personal/Professional Website"
+url                      : https://laurenklein.github.io/academics # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chrismbirmingham/chrismbirmingham.github.io/academics"
+repository               : "laurenklein/laurenklein.github.io/academics"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Birmingham"
+  name             : "Lauren Klein"
   avatar           : "profile.jpg"
-  bio              : "Robotics for humanity"
-  location         : "Location"
+  bio              : "PhD Candidate: Human-Robot Interaction"
+  location         : "Los Angeles, California"
   employer         :
-  googlescholar    : ""
-  email            : cbirming@usc.edu
+  googlescholar    : 
+  email            : kleinlaurenr@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chrismbirmingham"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
